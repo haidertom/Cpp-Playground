@@ -1,0 +1,310 @@
+# depslib dependency file v1.0
+1464018793 source:g:\pin2\schalter\tst.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<ctime>
+	"WinAdapt.h"
+	"textbox.h"
+	"schalter.h"
+
+1464003751 g:\pin2\schalter\winadapt.h
+	"windows.h"
+	<gdk/gdk.h>
+
+1464003751 source:g:\pin2\schalter\winadapt.cpp
+	<windows.h>
+	<cstring>
+	"WinAdapt.h"
+	<stdlib.h>
+	<gtk/gtk.h>
+	<pango/pango.h>
+	"WinAdapt.h"
+
+1464019038 source:g:\pin2\schalter\textbox.cpp
+	<iostream>
+	"WinAdapt.h"
+	"textbox.h"
+
+1464019633 g:\pin2\schalter\textbox.h
+
+1464019676 source:g:\pin2\schalter\schalter.cpp
+	<iostream>
+	"WinAdapt.h"
+	"schalter.h"
+	"textbox.h"
+
+1464019633 g:\pin2\schalter\schalter.h
+	"WinAdapt.h"
+	"textbox.h"
+
+1464091052 source:g:\pin2\schaltermitvererbung\schalter.cpp
+	<iostream>
+	"WinAdapt.h"
+	"schalter.h"
+	"textbox.h"
+	"FarbRect.h"
+
+1464003751 g:\pin2\schaltermitvererbung\winadapt.h
+	"windows.h"
+	<gdk/gdk.h>
+
+1464088658 g:\pin2\schaltermitvererbung\schalter.h
+	"WinAdapt.h"
+	"textbox.h"
+	"FarbRect.h"
+
+1464085995 g:\pin2\schaltermitvererbung\textbox.h
+	"FarbRect.h"
+	"WinAdapt.h"
+
+1464090799 source:g:\pin2\schaltermitvererbung\textbox.cpp
+	<iostream>
+	"WinAdapt.h"
+	"textbox.h"
+	"schalter.h"
+
+1464088043 source:g:\pin2\schaltermitvererbung\tst.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<ctime>
+	"WinAdapt.h"
+	"textbox.h"
+	"schalter.h"
+	"FarbRect.h"
+
+1464003751 source:g:\pin2\schaltermitvererbung\winadapt.cpp
+	<windows.h>
+	<cstring>
+	"WinAdapt.h"
+	<stdlib.h>
+	<gtk/gtk.h>
+	<pango/pango.h>
+	"WinAdapt.h"
+
+1464086675 source:g:\pin2\schaltermitvererbung\farbrect.cpp
+	<iostream>
+	"WinAdapt.h"
+	"schalter.h"
+	"textbox.h"
+	"FarbRect.h"
+
+1464086899 g:\pin2\schaltermitvererbung\farbrect.h
+
+1464086676 source:g:\informatik 2\schaltermitvererbung\farbrect.cpp
+	<iostream>
+	"WinAdapt.h"
+	"schalter.h"
+	"textbox.h"
+	"FarbRect.h"
+
+1464003752 g:\informatik 2\schaltermitvererbung\winadapt.h
+	"windows.h"
+	<gdk/gdk.h>
+
+1464088660 g:\informatik 2\schaltermitvererbung\schalter.h
+	"WinAdapt.h"
+	"textbox.h"
+	"FarbRect.h"
+
+1464085996 g:\informatik 2\schaltermitvererbung\textbox.h
+	"FarbRect.h"
+	"WinAdapt.h"
+
+1464086900 g:\informatik 2\schaltermitvererbung\farbrect.h
+
+1464091054 source:g:\informatik 2\schaltermitvererbung\schalter.cpp
+	<iostream>
+	"WinAdapt.h"
+	"schalter.h"
+	"textbox.h"
+	"FarbRect.h"
+
+1464090800 source:g:\informatik 2\schaltermitvererbung\textbox.cpp
+	<iostream>
+	"WinAdapt.h"
+	"textbox.h"
+	"schalter.h"
+
+1464091098 source:g:\informatik 2\schaltermitvererbung\tst.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<ctime>
+	"WinAdapt.h"
+	"textbox.h"
+	"schalter.h"
+	"FarbRect.h"
+
+1464003752 source:g:\informatik 2\schaltermitvererbung\winadapt.cpp
+	<windows.h>
+	<cstring>
+	"WinAdapt.h"
+	<stdlib.h>
+	<gtk/gtk.h>
+	<pango/pango.h>
+	"WinAdapt.h"
+
+1464101292 source:g:\informatik 2\gatter aufgabe 9\farbrect.cpp
+	<iostream>
+	"WinAdapt.h"
+	"textbox.h"
+	"FarbRect.h"
+
+1464003752 g:\informatik 2\gatter aufgabe 9\winadapt.h
+	"windows.h"
+	<gdk/gdk.h>
+
+1464101285 g:\informatik 2\gatter aufgabe 9\textbox.h
+	"FarbRect.h"
+	"iostream"
+	"WinAdapt.h"
+
+1464101285 g:\informatik 2\gatter aufgabe 9\farbrect.h
+
+1464101284 source:g:\informatik 2\gatter aufgabe 9\textbox.cpp
+	"textbox.h"
+	"FarbRect.h"
+
+1464100937 source:g:\informatik 2\gatter aufgabe 9\tst.cpp
+	"WinAdapt.h"
+	"cstdio"
+	"textbox.h"
+	"FarbRect.h"
+	"Verbindung.h"
+	"Gatter.h"
+
+1464003752 source:g:\informatik 2\gatter aufgabe 9\winadapt.cpp
+	<windows.h>
+	<cstring>
+	"WinAdapt.h"
+	<stdlib.h>
+	<gtk/gtk.h>
+	<pango/pango.h>
+	"WinAdapt.h"
+
+1464101096 source:g:\informatik 2\gatter aufgabe 9\gatter.cpp
+	"Gatter.h"
+
+1464101058 g:\informatik 2\gatter aufgabe 9\gatter.h
+	"textbox.h"
+	"WinAdapt.h"
+	"Verbindung.h"
+
+1464100888 g:\informatik 2\gatter aufgabe 9\verbindung.h
+	"textbox.h"
+	"WinAdapt.h"
+
+1464100851 source:g:\informatik 2\gatter aufgabe 9\verbindung.cpp
+	"Verbindung.h"
+
+1464101292 source:g:\informatik 2\gatter aufgabe 10\farbrect.cpp
+	<iostream>
+	"WinAdapt.h"
+	"textbox.h"
+	"FarbRect.h"
+
+1464003752 g:\informatik 2\gatter aufgabe 10\winadapt.h
+	"windows.h"
+	<gdk/gdk.h>
+
+1464101285 g:\informatik 2\gatter aufgabe 10\textbox.h
+	"FarbRect.h"
+	"iostream"
+	"WinAdapt.h"
+
+1464101285 g:\informatik 2\gatter aufgabe 10\farbrect.h
+
+1464101096 source:g:\informatik 2\gatter aufgabe 10\gatter.cpp
+	"Gatter.h"
+
+1464101058 g:\informatik 2\gatter aufgabe 10\gatter.h
+	"textbox.h"
+	"WinAdapt.h"
+	"Verbindung.h"
+
+1464599882 g:\informatik 2\gatter aufgabe 10\verbindung.h
+	"textbox.h"
+	"WinAdapt.h"
+
+1464101284 source:g:\informatik 2\gatter aufgabe 10\textbox.cpp
+	"textbox.h"
+	"FarbRect.h"
+
+1464101672 source:g:\informatik 2\gatter aufgabe 10\tst.cpp
+	"WinAdapt.h"
+	"cstdio"
+	"textbox.h"
+	"FarbRect.h"
+	"Verbindung.h"
+	"Gatter.h"
+
+1464100851 source:g:\informatik 2\gatter aufgabe 10\verbindung.cpp
+	"Verbindung.h"
+
+1464003752 source:g:\informatik 2\gatter aufgabe 10\winadapt.cpp
+	<windows.h>
+	<cstring>
+	"WinAdapt.h"
+	<stdlib.h>
+	<gtk/gtk.h>
+	<pango/pango.h>
+	"WinAdapt.h"
+
+1464599884 source:g:\pin2\gatter a\farbrect.cpp
+	<iostream>
+	"WinAdapt.h"
+	"textbox.h"
+	"FarbRect.h"
+
+1464003752 g:\pin2\gatter a\winadapt.h
+	"windows.h"
+	<gdk/gdk.h>
+
+1464101286 g:\pin2\gatter a\textbox.h
+	"FarbRect.h"
+	"iostream"
+	"WinAdapt.h"
+
+1464101286 g:\pin2\gatter a\farbrect.h
+
+1464100852 source:g:\pin2\gatter a\verbindung.cpp
+	"Verbindung.h"
+
+1464607300 g:\pin2\gatter a\verbindung.h
+	"textbox.h"
+	"WinAdapt.h"
+
+1464003752 source:g:\pin2\gatter a\winadapt.cpp
+	<windows.h>
+	<cstring>
+	"WinAdapt.h"
+	<stdlib.h>
+	<gtk/gtk.h>
+	<pango/pango.h>
+	"WinAdapt.h"
+
+1464600306 source:g:\pin2\gatter a\gatter.cpp
+	"Gatter.h"
+
+1464101060 g:\pin2\gatter a\gatter.h
+	"textbox.h"
+	"WinAdapt.h"
+	"Verbindung.h"
+
+1464599884 source:g:\pin2\gatter a\tst.cpp
+	"WinAdapt.h"
+	"cstdio"
+	"textbox.h"
+	"FarbRect.h"
+	"Verbindung.h"
+	"Gatter.h"
+
+1464607171 source:g:\pin2\gatter a\textbox.cpp
+	"textbox.h"
+	"FarbRect.h"
+

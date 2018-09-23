@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1464018793 source:g:\pin2\schalter\tst.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<ctime>
+	"WinAdapt.h"
+	"textbox.h"
+	"schalter.h"
+
+1464003751 g:\pin2\schalter\winadapt.h
+	"windows.h"
+	<gdk/gdk.h>
+
+1464003751 source:g:\pin2\schalter\winadapt.cpp
+	<windows.h>
+	<cstring>
+	"WinAdapt.h"
+	<stdlib.h>
+	<gtk/gtk.h>
+	<pango/pango.h>
+	"WinAdapt.h"
+
+1464019038 source:g:\pin2\schalter\textbox.cpp
+	<iostream>
+	"WinAdapt.h"
+	"textbox.h"
+
+1464019633 g:\pin2\schalter\textbox.h
+
+1464019676 source:g:\pin2\schalter\schalter.cpp
+	<iostream>
+	"WinAdapt.h"
+	"schalter.h"
+	"textbox.h"
+
+1464019633 g:\pin2\schalter\schalter.h
+	"WinAdapt.h"
+	"textbox.h"
+

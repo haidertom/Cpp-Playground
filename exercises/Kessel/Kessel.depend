@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1462879052 source:g:\pin2\kessel\kessel\tst.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<ctime>
+	"WinAdapt.h"
+	"Kessel.h"
+
+1462869953 g:\pin2\kessel\kessel\winadapt.h
+	"windows.h"
+	<gdk/gdk.h>
+
+1462869953 source:g:\pin2\kessel\kessel\winadapt.cpp
+	<windows.h>
+	<cstring>
+	"WinAdapt.h"
+	<stdlib.h>
+	<gtk/gtk.h>
+	<pango/pango.h>
+	"WinAdapt.h"
+
+1462875763 source:g:\pin2\kessel\kessel\kessel.cpp
+	<iostream>
+	<cstdio>
+	"WinAdapt.h"
+	"Kessel.h"
+
+1462879052 g:\pin2\kessel\kessel\kessel.h
+

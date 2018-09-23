@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1462877439 source:g:\pin2\kessel\kessel\tst.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<ctime>
+	"WinAdapt.h"
+	"Kessel.h"
+
+1462869953 g:\pin2\kessel\kessel\winadapt.h
+	"windows.h"
+	<gdk/gdk.h>
+
+1462869953 source:g:\pin2\kessel\kessel\winadapt.cpp
+	<windows.h>
+	<cstring>
+	"WinAdapt.h"
+	<stdlib.h>
+	<gtk/gtk.h>
+	<pango/pango.h>
+	"WinAdapt.h"
+
+1462875763 source:g:\pin2\kessel\kessel\kessel.cpp
+	<iostream>
+	<cstdio>
+	"WinAdapt.h"
+	"Kessel.h"
+
+1462879052 g:\pin2\kessel\kessel\kessel.h
+
+1462869953 source:g:\pin2\brenner\brenner\winadapt.cpp
+	<windows.h>
+	<cstring>
+	"WinAdapt.h"
+	<stdlib.h>
+	<gtk/gtk.h>
+	<pango/pango.h>
+	"WinAdapt.h"
+
+1462869953 g:\pin2\brenner\brenner\winadapt.h
+	"windows.h"
+	<gdk/gdk.h>
+
+1462885652 source:g:\pin2\brenner\brenner\kessel.cpp
+	<iostream>
+	<cstdio>
+	"WinAdapt.h"
+	"Kessel.h"
+
+1462879686 g:\pin2\brenner\brenner\kessel.h
+
+1462885133 source:g:\pin2\brenner\brenner\tst.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<ctime>
+	"WinAdapt.h"
+	"Kessel.h"
+	"HzBrenn.h"
+
+1462885630 source:g:\pin2\brenner\brenner\hzbrenn.cpp
+	<iostream>
+	<cstdio>
+	"WinAdapt.h"
+	"Kessel.h"
+	"HzBrenn.h"
+
+1462885210 g:\pin2\brenner\brenner\hzbrenn.h
+	"kessel.h"
+
+1464001682 source:g:\pin2\chemie\chemie\hzbrenn.cpp
+	<iostream>
+	<cstdio>
+	"WinAdapt.h"
+	"Kessel.h"
+	"HzBrenn.h"
+
+1462869953 g:\pin2\chemie\chemie\winadapt.h
+	"windows.h"
+	<gdk/gdk.h>
+
+1464001628 g:\pin2\chemie\chemie\kessel.h
+
+1464001682 g:\pin2\chemie\chemie\hzbrenn.h
+	"kessel.h"
+
+1462957779 source:g:\pin2\chemie\chemie\kessel.cpp
+	<iostream>
+	<cstdio>
+	"WinAdapt.h"
+	"Kessel.h"
+
+1462969472 source:g:\pin2\chemie\chemie\tst.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<ctime>
+	"WinAdapt.h"
+	"Kessel.h"
+	"HzBrenn.h"
+	"pipeline.h"
+
+1462869953 source:g:\pin2\chemie\chemie\winadapt.cpp
+	<windows.h>
+	<cstring>
+	"WinAdapt.h"
+	<stdlib.h>
+	<gtk/gtk.h>
+	<pango/pango.h>
+	"WinAdapt.h"
+
+1464001682 source:g:\pin2\chemie\chemie\pipeline.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	"WinAdapt.h"
+	"pipeline.h"
+	"Kessel.h"
+
+1462966844 g:\pin2\chemie\chemie\pipeline.h
+	"Kessel.h"
+

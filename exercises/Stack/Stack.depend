@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1460964863 source:c:\users\david\desktop\oth\pin2\stack\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"stack.h"
+	"stack_elem.h"
+
+1460977160 c:\users\david\desktop\oth\pin2\stack\stack.h
+
+1460968163 c:\users\david\desktop\oth\pin2\stack\stack_elem.h
+
+1460978168 source:c:\users\david\desktop\oth\pin2\stack\stack_elem.c
+	<stdio.h>
+	<stdlib.h>
+	"stack_elem.h"
+	"stack.h"
+
+1460977603 source:c:\users\david\desktop\oth\pin2\stack\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+	"stack_elem.h"
+
+1460964863 source:g:\pin2\stack0\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"stack.h"
+	"stack_elem.h"
+
+1460977160 g:\pin2\stack0\stack.h
+
+1460968163 g:\pin2\stack0\stack_elem.h
+
+1460977603 source:g:\pin2\stack0\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+	"stack_elem.h"
+
+1460978168 source:g:\pin2\stack0\stack_elem.c
+	<stdio.h>
+	<stdlib.h>
+	"stack_elem.h"
+	"stack.h"
+
+1460964863 source:g:\pin2\stack\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"stack.h"
+	"stack_elem.h"
+
+1461585960 g:\pin2\stack\stack.h
+
+1461585922 g:\pin2\stack\stack_elem.h
+
+1461763231 source:g:\pin2\stack\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+	"stack_elem.h"
+
+1461586059 source:g:\pin2\stack\stack_elem.c
+	<stdio.h>
+	<stdlib.h>
+	"stack_elem.h"
+	"stack.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1462789988 source:g:\pin2\bruch\bruch.cpp
+	"bruch.h"
+	<iostream>
+	"math.h"
+
+1462789988 g:\pin2\bruch\bruch.h
+
+1462790209 source:g:\pin2\bruch\main.cpp
+	<iostream>
+	"bruch.h"
+
