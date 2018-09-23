@@ -1,0 +1,9 @@
+Mailand_Rom 20 10
+Manchester_London 20 30
+Zuerich_Paris 15 00
+Peking_Hongkong 20 50
+Auckland_Wellington 90 10
+San_Francisco 30 60
+Sydney_Melbourne 40 20
+Amberg_Weiden 90 10
+Vancouver_Toronto 60 30
